@@ -1,0 +1,5 @@
+export enum actionTypes {
+  BLOCK_PENDING = 'BLOCK_PENDING',
+  BLOCK_ERROR = 'BLOCK_ERROR',
+  BLOCK_SUCCESS = 'BLOCK_SUCCESS',
+}
